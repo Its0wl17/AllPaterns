@@ -1,0 +1,14 @@
+E:\AllStructurs\Wrapper\Wrapper\bin\Debug\net8.0\Wrapper.exe
+E:\AllStructurs\Wrapper\Wrapper\bin\Debug\net8.0\Wrapper.deps.json
+E:\AllStructurs\Wrapper\Wrapper\bin\Debug\net8.0\Wrapper.runtimeconfig.json
+E:\AllStructurs\Wrapper\Wrapper\bin\Debug\net8.0\Wrapper.dll
+E:\AllStructurs\Wrapper\Wrapper\bin\Debug\net8.0\Wrapper.pdb
+E:\AllStructurs\Wrapper\Wrapper\obj\Debug\net8.0\Wrapper.GeneratedMSBuildEditorConfig.editorconfig
+E:\AllStructurs\Wrapper\Wrapper\obj\Debug\net8.0\Wrapper.AssemblyInfoInputs.cache
+E:\AllStructurs\Wrapper\Wrapper\obj\Debug\net8.0\Wrapper.AssemblyInfo.cs
+E:\AllStructurs\Wrapper\Wrapper\obj\Debug\net8.0\Wrapper.csproj.CoreCompileInputs.cache
+E:\AllStructurs\Wrapper\Wrapper\obj\Debug\net8.0\Wrapper.dll
+E:\AllStructurs\Wrapper\Wrapper\obj\Debug\net8.0\refint\Wrapper.dll
+E:\AllStructurs\Wrapper\Wrapper\obj\Debug\net8.0\Wrapper.pdb
+E:\AllStructurs\Wrapper\Wrapper\obj\Debug\net8.0\Wrapper.genruntimeconfig.cache
+E:\AllStructurs\Wrapper\Wrapper\obj\Debug\net8.0\ref\Wrapper.dll
