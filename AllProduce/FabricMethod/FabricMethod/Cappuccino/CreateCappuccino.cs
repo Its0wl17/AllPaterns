@@ -8,7 +8,7 @@ namespace FabricMethod
 {
     public class CreateCappuccino : CoffeeMachine
     {
-        public override ICoffee MakeCoffee()
+        protected override ICoffee MakeCoffee()
         {
             return new Cappuccino();
         }

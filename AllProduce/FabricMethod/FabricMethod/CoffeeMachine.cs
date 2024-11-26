@@ -12,11 +12,10 @@ namespace FabricMethod
         public string Make() 
         {
             Console.Write("Готовится кофе: ");
-            var coffee1 = MakeCoffee();
+            var coffee = MakeCoffee();
 
-            return coffee1.Coffee();
+            return coffee.Coffee();
         }
-        public abstract ICoffee MakeCoffee();
-
+        protected abstract ICoffee MakeCoffee();
     }
 }

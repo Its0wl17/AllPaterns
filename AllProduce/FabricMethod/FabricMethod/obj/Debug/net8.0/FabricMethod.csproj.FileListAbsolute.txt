@@ -26,3 +26,17 @@ F:\AllPatterns\FabricMethod\FabricMethod\obj\Debug\net8.0\refint\FabricMethod.dl
 F:\AllPatterns\FabricMethod\FabricMethod\obj\Debug\net8.0\FabricMethod.pdb
 F:\AllPatterns\FabricMethod\FabricMethod\obj\Debug\net8.0\FabricMethod.genruntimeconfig.cache
 F:\AllPatterns\FabricMethod\FabricMethod\obj\Debug\net8.0\ref\FabricMethod.dll
+E:\AllPatterns\AllProduce\FabricMethod\FabricMethod\bin\Debug\net8.0\FabricMethod.exe
+E:\AllPatterns\AllProduce\FabricMethod\FabricMethod\bin\Debug\net8.0\FabricMethod.deps.json
+E:\AllPatterns\AllProduce\FabricMethod\FabricMethod\bin\Debug\net8.0\FabricMethod.runtimeconfig.json
+E:\AllPatterns\AllProduce\FabricMethod\FabricMethod\bin\Debug\net8.0\FabricMethod.dll
+E:\AllPatterns\AllProduce\FabricMethod\FabricMethod\bin\Debug\net8.0\FabricMethod.pdb
+E:\AllPatterns\AllProduce\FabricMethod\FabricMethod\obj\Debug\net8.0\FabricMethod.GeneratedMSBuildEditorConfig.editorconfig
+E:\AllPatterns\AllProduce\FabricMethod\FabricMethod\obj\Debug\net8.0\FabricMethod.AssemblyInfoInputs.cache
+E:\AllPatterns\AllProduce\FabricMethod\FabricMethod\obj\Debug\net8.0\FabricMethod.AssemblyInfo.cs
+E:\AllPatterns\AllProduce\FabricMethod\FabricMethod\obj\Debug\net8.0\FabricMethod.csproj.CoreCompileInputs.cache
+E:\AllPatterns\AllProduce\FabricMethod\FabricMethod\obj\Debug\net8.0\FabricMethod.dll
+E:\AllPatterns\AllProduce\FabricMethod\FabricMethod\obj\Debug\net8.0\refint\FabricMethod.dll
+E:\AllPatterns\AllProduce\FabricMethod\FabricMethod\obj\Debug\net8.0\FabricMethod.pdb
+E:\AllPatterns\AllProduce\FabricMethod\FabricMethod\obj\Debug\net8.0\FabricMethod.genruntimeconfig.cache
+E:\AllPatterns\AllProduce\FabricMethod\FabricMethod\obj\Debug\net8.0\ref\FabricMethod.dll

@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace FabricMethod
 {
-    public class CreateLatte : CoffeeMachine
+    public interface ICoffee
     {
-        protected override ICoffee MakeCoffee()
-        {
-            return new Latte();
-        }
+        string Coffee();
     }
 }

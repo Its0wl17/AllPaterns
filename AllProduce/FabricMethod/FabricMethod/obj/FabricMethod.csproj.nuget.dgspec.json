@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\AllPatterns\\FabricMethod\\FabricMethod\\FabricMethod.csproj": {}
+    "E:\\AllPatterns\\AllProduce\\FabricMethod\\FabricMethod\\FabricMethod.csproj": {}
   },
   "projects": {
-    "F:\\AllPatterns\\FabricMethod\\FabricMethod\\FabricMethod.csproj": {
+    "E:\\AllPatterns\\AllProduce\\FabricMethod\\FabricMethod\\FabricMethod.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\AllPatterns\\FabricMethod\\FabricMethod\\FabricMethod.csproj",
+        "projectUniqueName": "E:\\AllPatterns\\AllProduce\\FabricMethod\\FabricMethod\\FabricMethod.csproj",
         "projectName": "FabricMethod",
-        "projectPath": "F:\\AllPatterns\\FabricMethod\\FabricMethod\\FabricMethod.csproj",
-        "packagesPath": "C:\\Users\\egorp\\.nuget\\packages\\",
-        "outputPath": "F:\\AllPatterns\\FabricMethod\\FabricMethod\\obj\\",
+        "projectPath": "E:\\AllPatterns\\AllProduce\\FabricMethod\\FabricMethod\\FabricMethod.csproj",
+        "packagesPath": "C:\\Users\\Professional\\.nuget\\packages\\",
+        "outputPath": "E:\\AllPatterns\\AllProduce\\FabricMethod\\FabricMethod\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\egorp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Professional\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
