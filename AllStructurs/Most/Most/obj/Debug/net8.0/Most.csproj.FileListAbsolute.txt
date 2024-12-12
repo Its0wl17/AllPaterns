@@ -1,0 +1,14 @@
+E:\AllPatterns\AllStructurs\Most\Most\bin\Debug\net8.0\Most.exe
+E:\AllPatterns\AllStructurs\Most\Most\bin\Debug\net8.0\Most.deps.json
+E:\AllPatterns\AllStructurs\Most\Most\bin\Debug\net8.0\Most.runtimeconfig.json
+E:\AllPatterns\AllStructurs\Most\Most\bin\Debug\net8.0\Most.dll
+E:\AllPatterns\AllStructurs\Most\Most\bin\Debug\net8.0\Most.pdb
+E:\AllPatterns\AllStructurs\Most\Most\obj\Debug\net8.0\Most.GeneratedMSBuildEditorConfig.editorconfig
+E:\AllPatterns\AllStructurs\Most\Most\obj\Debug\net8.0\Most.AssemblyInfoInputs.cache
+E:\AllPatterns\AllStructurs\Most\Most\obj\Debug\net8.0\Most.AssemblyInfo.cs
+E:\AllPatterns\AllStructurs\Most\Most\obj\Debug\net8.0\Most.csproj.CoreCompileInputs.cache
+E:\AllPatterns\AllStructurs\Most\Most\obj\Debug\net8.0\Most.dll
+E:\AllPatterns\AllStructurs\Most\Most\obj\Debug\net8.0\refint\Most.dll
+E:\AllPatterns\AllStructurs\Most\Most\obj\Debug\net8.0\Most.pdb
+E:\AllPatterns\AllStructurs\Most\Most\obj\Debug\net8.0\Most.genruntimeconfig.cache
+E:\AllPatterns\AllStructurs\Most\Most\obj\Debug\net8.0\ref\Most.dll
